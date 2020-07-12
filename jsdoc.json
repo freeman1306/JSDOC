@@ -8,6 +8,9 @@
     "templates": {
       "cleverLinks": true,
       "monospaceLinks": true
+    },
+    "opts": {
+      "template": "custom-template"
     }
    
   }
