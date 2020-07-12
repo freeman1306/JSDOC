@@ -1,0 +1,23 @@
+{
+  "name": "JSDOC",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "doc": "jsdoc -c jsdoc.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freeman1306/JSDOC.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/freeman1306/JSDOC/issues"
+  },
+  "homepage": "https://github.com/freeman1306/JSDOC#readme",
+  "devDependencies": {
+    "jsdoc": "^3.6.4"
+  }
+}
