@@ -1,0 +1,1 @@
+This is just a sample how to use script JSDoc
